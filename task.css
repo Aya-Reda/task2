@@ -1,0 +1,28 @@
+.cnotact{
+    text-align: center;
+    background: rgba(34, 34, 33, 0.541);
+    width: 400px;
+    margin-left: 35%;
+    margin-top: 20px;
+    padding: 30px;
+    border-radius: 20px;
+}
+.container{
+    margin-top: 20px;
+}
+input[type="text"]{
+    margin-top: 10px;
+}
+input[type="tel"]{
+    margin-top: 10px;
+}
+input[type="email"]{
+    margin-top: 10px;
+}
+#btn-contact{
+    margin-top: 10px;
+}
+p{
+    text-align: center;
+    margin-top: 10px;
+}

@@ -1,0 +1,16 @@
+.sign{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    padding-top: 30px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+    background-color: rgba(32, 32, 31, 0.603);
+    border-radius: 20px;
+}
+#btn{
+    text-align: center;
+    margin-left: 140px;
+}
